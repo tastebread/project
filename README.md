@@ -1,3 +1,3 @@
 ### 수학 계산을 위한 코드를 제공하는 프로젝트
-1.projcet file
+1.projcet file 계산을 도와주는 파일
 
